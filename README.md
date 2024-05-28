@@ -9,4 +9,4 @@ Parity-odd four point functions for the data and mocks are in "out", organized i
 
 The analytic covariances needed to compute chi2 are in "cov." The computation of chi2 follows the notebooks [in the Parity-Odd-4PCF repo](https://github.com/oliverphilcox/Parity-Odd-4PCF).
 
-Many thanks to the original authors of the parity-odd four point function papers (link): Jiamin Hou, Zachary Slepian, Robert Cahn, and Oliver Philcox. This repository is intended to allow the community to reproduce our (and their) work.
+Many thanks to the original authors of the [parity-odd four point function](https://arxiv.org/abs/2206.03625) [papers](https://arxiv.org/abs/2206.04227): Jiamin Hou, Zachary Slepian, Robert Cahn, and Oliver Philcox. This repository is intended to allow the community to reproduce our (and their) work.
